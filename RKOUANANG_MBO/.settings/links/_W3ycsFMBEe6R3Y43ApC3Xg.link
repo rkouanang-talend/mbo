@@ -1,0 +1,29 @@
+{
+  "itemId" : "_W3ycsFMBEe6R3Y43ApC3Xg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_FNZvgFMKEe6R3Y43ApC3Xg",
+    "parameterList" : [ {
+      "id" : "_FNq1RFMKEe6R3Y43ApC3Xg",
+      "name" : "connection_Redshift_Database"
+    }, {
+      "id" : "_FNq1R1MKEe6R3Y43ApC3Xg",
+      "name" : "connection_Redshift_Password"
+    }, {
+      "id" : "_FNq1QlMKEe6R3Y43ApC3Xg",
+      "name" : "connection_Redshift_Port"
+    }, {
+      "id" : "_FNq1QVMKEe6R3Y43ApC3Xg",
+      "name" : "connection_Redshift_Login"
+    }, {
+      "id" : "_FNq1Q1MKEe6R3Y43ApC3Xg",
+      "name" : "connection_Redshift_Server"
+    }, {
+      "id" : "_FNq1RlMKEe6R3Y43ApC3Xg",
+      "name" : "connection_Redshift_Schema"
+    }, {
+      "id" : "_FNq1RVMKEe6R3Y43ApC3Xg",
+      "name" : "connection_Redshift_AdditionalParams"
+    } ]
+  } ]
+}
